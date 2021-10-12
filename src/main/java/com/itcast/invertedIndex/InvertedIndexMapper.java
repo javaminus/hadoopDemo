@@ -1,5 +1,4 @@
 package com.itcast.invertedIndex;
-
 import java.io.IOException;
 
 import org.apache.commons.lang.StringUtils;
